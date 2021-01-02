@@ -4,7 +4,6 @@ var speed,weight;
 
 function setup() {
   createCanvas(1600,400);
-  background.color="black";
   speed=random(55,90);
   weight=random(400,1500);
 
